@@ -1,0 +1,10 @@
+git add 		-> add staging area
+git status		-> check status of file
+git commit -m		-> commit all added files
+git clone xyz .		-> clone repo from git
+git branch xyz		-> creates new branch where working
+git checkout xyz	-> starts working in branch xyz
+git merge xyz		-> merges with master/current branch
+
+git reset		-> remove staging area
+git log			-> all previous commits.
